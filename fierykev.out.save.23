@@ -1,0 +1,3 @@
+
+ppc.v:405: Error: $fscanf() is a system function, it cannot be called as a task.
+./ppc: Program not runnable, 1 errors.

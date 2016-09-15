@@ -1,0 +1,15 @@
+BX
+LD                  48
+ADDI
+
+STD
+ADDI
+ADDI
+SC
+s
+BX
+ADDI
+SC
+s
+ADDI
+SC

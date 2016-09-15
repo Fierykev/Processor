@@ -1,0 +1,5301 @@
+0000000000000061
+0000000000000000
+00000000000000ab
+00000000000000bc
+00000000000000df
+B$           1
+HH 0  1
+HH 0  1
+WRONG
+B$           1
+HH 0  1
+HH 1  1
+00000000000001be
+WRONG
+B$           2
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 0  1
+HH 0  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 0  1
+HH 0  1
+00000000000000d4
+00000000000000d8
+WRONG
+B$           1
+HH 0  1
+HH 0  1
+B$           2
+HH 1 -1
+HH 1  1
+00000000000000d8
+
+WRONG
+B$           1
+HH 0  1
+HH 0  1
+000000000000000a
+B$           1
+HH 0  1
+HH 0  1
+0000000000000009
+B$           1
+HH 0  1
+HH 0  1
+0000000000000008
+B$           1
+HH 0  1
+HH 0  1
+0000000000000007
+B$           1
+HH 0  1
+HH 0  1
+0000000000000006
+B$           1
+HH 0  1
+HH 0  1
+0000000000000005
+B$           1
+HH 0  1
+HH 0  1
+0000000000000004
+B$           1
+HH 0  1
+HH 0  1
+0000000000000003
+B$           1
+HH 0  1
+HH 0  1
+0000000000000002
+B$           1
+HH 0  1
+HH 0  1
+0000000000000001
+WRONG
+B$           1
+HH 0  1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+WRONG
+B$          -1
+HH 0  1
+HH 0  1
+0000000000000098
+000000000000000c
+B$           2
+HH 1 -1
+HH 1  1
+B$           2
+HH 0  1
+HH 1 -1
+000000000000000d
+WRONG
+B$           2
+HH 0  1
+HH 1 -1
+WRONG
+B$           1
+HH 0  1
+HH 0  1
+B$           1
+HH 0  1
+HH 0  1
+WRONG
+B$          -1
+HH 0  1
+HH 0  1
+B$           2
+HH 1  1
+HH 1 -1
+B$           0
+HH 0 -1
+HH 0  1
+000000007fffffff
+WRONG
+B$           0
+HH 0 -1
+HH 0  1
+WRONG
+B$          -1
+HH 0  1
+HH 0  1
+WRONG
+B$          -1
+HH 0  1
+HH 0  1
+000000000000000e
+ffffffffbfffffff
+B$          -1
+HH 0  1
+HH 0  1
+ffffffffbfffffff
+000000000000002a
+70c000c270000004
+70c000c270000084
+B$           2
+HH 1  1
+HH 1  1
+70c000c270000084
+70c000c270000104
+WRONG
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+B$           0
+HH 0 -1
+HH 0  1
+WRONG
+B$          -1
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000d1
+WRONG
+B$           3
+HH 1  1
+HH 1  1
+B$          -2
+HH 0  1
+HH 0  1
+70c000c270000004
+WRONG
+B$          -2
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000d0
+WRONG
+B$           4
+HH 1 -1
+HH 1  1
+B$          -3
+HH 0  1
+HH 0  1
+88000005d0c00160
+WRONG
+B$          -3
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000cf
+WRONG
+B$           5
+HH 1  1
+HH 1  1
+B$          -4
+HH 0  1
+HH 0  1
+8800000471000156
+WRONG
+B$          -4
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000ce
+WRONG
+B$           6
+HH 1  1
+HH 1  1
+B$          -5
+HH 0  1
+HH 0  1
+f1000161d0c00160
+WRONG
+B$          -5
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000cd
+WRONG
+B$           7
+HH 1  1
+HH 1  1
+B$          -6
+HH 0  1
+HH 0  1
+8800000471000178
+WRONG
+B$          -6
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000cc
+WRONG
+B$           8
+HH 1  1
+HH 1  1
+B$          -7
+HH 0  1
+HH 0  1
+f1000160c0000000
+WRONG
+B$          -7
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000cb
+WRONG
+B$           9
+HH 1  1
+HH 1  1
+B$          -8
+HH 0  1
+HH 0  1
+d0c0016088000004
+WRONG
+B$          -8
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000ca
+WRONG
+B$          10
+HH 1  1
+HH 1  1
+B$          -9
+HH 0  1
+HH 0  1
+710001bff1000160
+WRONG
+B$          -9
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c9
+WRONG
+B$          11
+HH 1  1
+HH 1  1
+B$         -10
+HH 0  1
+HH 0  1
+c0000000c0000000
+WRONG
+B$         -10
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c8
+WRONG
+B$          12
+HH 1  1
+HH 1  1
+B$         -11
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -11
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c7
+WRONG
+B$          13
+HH 1  1
+HH 1  1
+B$         -12
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -12
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c6
+WRONG
+B$          14
+HH 1  1
+HH 1  1
+B$         -13
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -13
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c5
+WRONG
+B$          15
+HH 1  1
+HH 1  1
+B$         -14
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -14
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c4
+WRONG
+B$          16
+HH 1  1
+HH 1  1
+B$         -15
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -15
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c3
+WRONG
+B$          17
+HH 1  1
+HH 1  1
+B$         -16
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -16
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c2
+WRONG
+B$          18
+HH 1  1
+HH 1  1
+B$         -17
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -17
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c1
+WRONG
+B$          19
+HH 1  1
+HH 1  1
+B$         -18
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -18
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000c0
+WRONG
+B$          20
+HH 1  1
+HH 1  1
+B$         -19
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -19
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000bf
+WRONG
+B$          21
+HH 1  1
+HH 1  1
+B$         -20
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -20
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000be
+WRONG
+B$          22
+HH 1  1
+HH 1  1
+B$         -21
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -21
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000bd
+WRONG
+B$          23
+HH 1  1
+HH 1  1
+B$         -22
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -22
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000bc
+WRONG
+B$          24
+HH 1  1
+HH 1  1
+B$         -23
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -23
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000bb
+WRONG
+B$          25
+HH 1  1
+HH 1  1
+B$         -24
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -24
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000ba
+WRONG
+B$          26
+HH 1  1
+HH 1  1
+B$         -25
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -25
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b9
+WRONG
+B$          27
+HH 1  1
+HH 1  1
+B$         -26
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -26
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b8
+WRONG
+B$          28
+HH 1  1
+HH 1  1
+B$         -27
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -27
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b7
+WRONG
+B$          29
+HH 1  1
+HH 1  1
+B$         -28
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -28
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b6
+WRONG
+B$          30
+HH 1  1
+HH 1  1
+B$         -29
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -29
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b5
+WRONG
+B$          31
+HH 1  1
+HH 1  1
+B$         -30
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -30
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b4
+WRONG
+B$          32
+HH 1  1
+HH 1  1
+B$         -31
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -31
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b3
+WRONG
+B$          33
+HH 1  1
+HH 1  1
+B$         -32
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -32
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b2
+WRONG
+B$          34
+HH 1  1
+HH 1  1
+B$         -33
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -33
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b1
+WRONG
+B$          35
+HH 1  1
+HH 1  1
+B$         -34
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -34
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000b0
+WRONG
+B$          36
+HH 1  1
+HH 1  1
+B$         -35
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -35
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000af
+WRONG
+B$          37
+HH 1  1
+HH 1  1
+B$         -36
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -36
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000ae
+WRONG
+B$          38
+HH 1  1
+HH 1  1
+B$         -37
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -37
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000ad
+WRONG
+B$          39
+HH 1  1
+HH 1  1
+B$         -38
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -38
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000ac
+WRONG
+B$          40
+HH 1  1
+HH 1  1
+B$         -39
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -39
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000ab
+WRONG
+B$          41
+HH 1  1
+HH 1  1
+B$         -40
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -40
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000aa
+WRONG
+B$          42
+HH 1  1
+HH 1  1
+B$         -41
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -41
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a9
+WRONG
+B$          43
+HH 1  1
+HH 1  1
+B$         -42
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -42
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a8
+WRONG
+B$          44
+HH 1  1
+HH 1  1
+B$         -43
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -43
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a7
+WRONG
+B$          45
+HH 1  1
+HH 1  1
+B$         -44
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -44
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a6
+WRONG
+B$          46
+HH 1  1
+HH 1  1
+B$         -45
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -45
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a5
+WRONG
+B$          47
+HH 1  1
+HH 1  1
+B$         -46
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -46
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a4
+WRONG
+B$          48
+HH 1  1
+HH 1  1
+B$         -47
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -47
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a3
+WRONG
+B$          49
+HH 1  1
+HH 1  1
+B$         -48
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a2
+WRONG
+B$          50
+HH 1  1
+HH 1  1
+B$         -49
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -49
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a1
+WRONG
+B$          51
+HH 1  1
+HH 1  1
+B$         -50
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -50
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+00000000000000a0
+WRONG
+B$          52
+HH 1  1
+HH 1  1
+B$         -51
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -51
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000009f
+WRONG
+B$          53
+HH 1  1
+HH 1  1
+B$         -52
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -52
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000009e
+WRONG
+B$          54
+HH 1  1
+HH 1  1
+B$         -53
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -53
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000009d
+WRONG
+B$          55
+HH 1  1
+HH 1  1
+B$         -54
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -54
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000009c
+WRONG
+B$          56
+HH 1  1
+HH 1  1
+B$         -55
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -55
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000009b
+WRONG
+B$          57
+HH 1  1
+HH 1  1
+B$         -56
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -56
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000009a
+WRONG
+B$          58
+HH 1  1
+HH 1  1
+B$         -57
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -57
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000099
+WRONG
+B$          59
+HH 1  1
+HH 1  1
+B$         -58
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -58
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000098
+WRONG
+B$          60
+HH 1  1
+HH 1  1
+B$         -59
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -59
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000097
+WRONG
+B$          61
+HH 1  1
+HH 1  1
+B$         -60
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -60
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000096
+WRONG
+B$          62
+HH 1  1
+HH 1  1
+B$         -61
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -61
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000095
+WRONG
+B$          63
+HH 1  1
+HH 1  1
+B$         -62
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -62
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000094
+WRONG
+B$          64
+HH 1  1
+HH 1  1
+B$         -63
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -63
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000093
+WRONG
+B$          65
+HH 1  1
+HH 1  1
+B$         -64
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -64
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000092
+WRONG
+B$          66
+HH 1  1
+HH 1  1
+B$         -65
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -65
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000091
+WRONG
+B$          67
+HH 1  1
+HH 1  1
+B$         -66
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -66
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000090
+WRONG
+B$          68
+HH 1  1
+HH 1  1
+B$         -67
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -67
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000008f
+WRONG
+B$          69
+HH 1  1
+HH 1  1
+B$         -68
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -68
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000008e
+WRONG
+B$          70
+HH 1  1
+HH 1  1
+B$         -69
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -69
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000008d
+WRONG
+B$          71
+HH 1  1
+HH 1  1
+B$         -70
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -70
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000008c
+WRONG
+B$          72
+HH 1  1
+HH 1  1
+B$         -71
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -71
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000008b
+WRONG
+B$          73
+HH 1  1
+HH 1  1
+B$         -72
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -72
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000008a
+WRONG
+B$          74
+HH 1  1
+HH 1  1
+B$         -73
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -73
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000089
+WRONG
+B$          75
+HH 1  1
+HH 1  1
+B$         -74
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -74
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000088
+WRONG
+B$          76
+HH 1  1
+HH 1  1
+B$         -75
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -75
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000087
+WRONG
+B$          77
+HH 1  1
+HH 1  1
+B$         -76
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -76
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000086
+WRONG
+B$          78
+HH 1  1
+HH 1  1
+B$         -77
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -77
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000085
+WRONG
+B$          79
+HH 1  1
+HH 1  1
+B$         -78
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -78
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000084
+WRONG
+B$          80
+HH 1  1
+HH 1  1
+B$         -79
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -79
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000083
+WRONG
+B$          81
+HH 1  1
+HH 1  1
+B$         -80
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -80
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000082
+WRONG
+B$          82
+HH 1  1
+HH 1  1
+B$         -81
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         -81
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000081
+WRONG
+B$          83
+HH 1  1
+HH 1  1
+B$         -82
+HH 0  1
+HH 0  1
+714a00108401fff0
+WRONG
+B$         -82
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000080
+WRONG
+B$          84
+HH 1  1
+HH 1  1
+B$         -83
+HH 0  1
+HH 0  1
+70c000027081fff0
+WRONG
+B$         -83
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000007f
+WRONG
+B$          85
+HH 1  1
+HH 1  1
+B$         -84
+HH 0  1
+HH 0  1
+71000000714001a2
+WRONG
+B$         -84
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000007e
+WRONG
+B$          86
+HH 1  1
+HH 1  1
+B$         -85
+HH 0  1
+HH 0  1
+f952074c7181fffe
+WRONG
+B$         -85
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000007d
+WRONG
+B$          87
+HH 1  1
+HH 1  1
+B$         -86
+HH 0  1
+HH 0  1
+f94c542af8d2054c
+WRONG
+B$         -86
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000007c
+WRONG
+B$          88
+HH 1  1
+HH 1  1
+B$         -87
+HH 0  1
+HH 0  1
+8800000484800028
+WRONG
+B$         -87
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000007b
+WRONG
+B$          89
+HH 1  1
+HH 1  1
+B$         -88
+HH 0  1
+HH 0  1
+d0c40012f8c63428
+WRONG
+B$         -88
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000007a
+WRONG
+B$          90
+HH 1  1
+HH 1  1
+B$         -89
+HH 0  1
+HH 0  1
+8800000497ffffd0
+WRONG
+B$         -89
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000079
+WRONG
+B$          91
+HH 1  1
+HH 1  1
+B$         -90
+HH 0  1
+HH 0  1
+70c0009e9000032a
+WRONG
+B$         -90
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000078
+WRONG
+B$          92
+HH 1  1
+HH 1  1
+B$         -91
+HH 0  1
+HH 0  1
+7000000070400246
+WRONG
+B$         -91
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000077
+WRONG
+B$          93
+HH 1  1
+HH 1  1
+B$         -92
+HH 0  1
+HH 0  1
+f842074c900002f2
+WRONG
+B$         -92
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000076
+WRONG
+B$          94
+HH 1  1
+HH 1  1
+B$         -93
+HH 0  1
+HH 0  1
+f8c2054c900002e2
+WRONG
+B$         -93
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000075
+WRONG
+B$          95
+HH 1  1
+HH 1  1
+B$         -94
+HH 0  1
+HH 0  1
+70420246f850074c
+WRONG
+B$         -94
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000074
+WRONG
+B$          96
+HH 1  1
+HH 1  1
+B$         -95
+HH 0  1
+HH 0  1
+900002caf8d0054c
+WRONG
+B$         -95
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000073
+WRONG
+B$          97
+HH 1  1
+HH 1  1
+B$         -96
+HH 0  1
+HH 0  1
+900002ba70401578
+WRONG
+B$         -96
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000072
+WRONG
+B$          98
+HH 1  1
+HH 1  1
+B$         -97
+HH 0  1
+HH 0  1
+f852074c900002a2
+WRONG
+B$         -97
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000071
+WRONG
+B$          99
+HH 1  1
+HH 1  1
+B$         -98
+HH 0  1
+HH 0  1
+f8d2054c90000292
+WRONG
+B$         -98
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000070
+WRONG
+B$         100
+HH 1  1
+HH 1  1
+B$         -99
+HH 0  1
+HH 0  1
+70c0004070c60014
+WRONG
+B$         -99
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000006f
+WRONG
+B$         101
+HH 1  1
+HH 1  1
+B$        -100
+HH 0  1
+HH 0  1
+7080008090000272
+WRONG
+B$        -100
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000006e
+WRONG
+B$         102
+HH 1  1
+HH 1  1
+B$        -101
+HH 0  1
+HH 0  1
+d0c00000f8c63428
+WRONG
+B$        -101
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000006d
+WRONG
+B$         103
+HH 1  1
+HH 1  1
+B$        -102
+HH 0  1
+HH 0  1
+7080008070000004
+WRONG
+B$        -102
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000006c
+WRONG
+B$         104
+HH 1  1
+HH 1  1
+B$        -103
+HH 0  1
+HH 0  1
+9000024af8443428
+WRONG
+B$        -103
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000006b
+WRONG
+B$         105
+HH 1  1
+HH 1  1
+B$        -104
+HH 0  1
+HH 0  1
+f8c2242870000002
+WRONG
+B$        -104
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000006a
+WRONG
+B$         106
+HH 1  1
+HH 1  1
+B$        -105
+HH 0  1
+HH 0  1
+9000022af8c41428
+WRONG
+B$        -105
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000069
+WRONG
+B$         107
+HH 1  1
+HH 1  1
+B$        -106
+HH 0  1
+HH 0  1
+f8c4142890000212
+WRONG
+B$        -106
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000068
+WRONG
+B$         108
+HH 1  1
+HH 1  1
+B$        -107
+HH 0  1
+HH 0  1
+f8462428f8c41428
+WRONG
+B$        -107
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000067
+WRONG
+B$         109
+HH 1  1
+HH 1  1
+B$        -108
+HH 0  1
+HH 0  1
+8800000470400000
+WRONG
+B$        -108
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000066
+WRONG
+B$         110
+HH 1  1
+HH 1  1
+B$        -109
+HH 0  1
+HH 0  1
+f85fe240f842074c
+WRONG
+B$        -109
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000065
+WRONG
+B$         111
+HH 1  1
+HH 1  1
+B$        -110
+HH 0  1
+HH 0  1
+f850074c704009a4
+WRONG
+B$        -110
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000064
+WRONG
+B$         112
+HH 1  1
+HH 1  1
+B$        -111
+HH 0  1
+HH 0  1
+70819f8ef844142a
+WRONG
+B$        -111
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000063
+WRONG
+B$         113
+HH 1  1
+HH 1  1
+B$        -112
+HH 0  1
+HH 0  1
+8304065083020648
+WRONG
+B$        -112
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000062
+WRONG
+B$         114
+HH 1  1
+HH 1  1
+B$        -113
+HH 0  1
+HH 0  1
+8300000870406072
+WRONG
+B$        -113
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000061
+WRONG
+B$         115
+HH 1  1
+HH 1  1
+B$        -114
+HH 0  1
+HH 0  1
+7081fffcf844142a
+WRONG
+B$        -114
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000060
+WRONG
+B$         116
+HH 1  1
+HH 1  1
+B$        -115
+HH 0  1
+HH 0  1
+8304062083000618
+WRONG
+B$        -115
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000005f
+WRONG
+B$         117
+HH 1  1
+HH 1  1
+B$        -116
+HH 0  1
+HH 0  1
+8302000870400258
+WRONG
+B$        -116
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000005e
+WRONG
+B$         118
+HH 1  1
+HH 1  1
+B$        -117
+HH 0  1
+HH 0  1
+7081fda8f842242a
+WRONG
+B$        -117
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000005d
+WRONG
+B$         119
+HH 1  1
+HH 1  1
+B$        -118
+HH 0  1
+HH 0  1
+830005f0830205e8
+WRONG
+B$        -118
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000005c
+WRONG
+B$         120
+HH 1  1
+HH 1  1
+B$        -119
+HH 0  1
+HH 0  1
+8304000872800d00
+WRONG
+B$        -119
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000005b
+WRONG
+B$         121
+HH 1  1
+HH 1  1
+B$        -120
+HH 0  1
+HH 0  1
+d0540001d0940000
+WRONG
+B$        -120
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000005a
+WRONG
+B$         122
+HH 1  1
+HH 1  1
+B$        -121
+HH 0  1
+HH 0  1
+f8422428830605b8
+WRONG
+B$        -121
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000059
+WRONG
+B$         123
+HH 1  1
+HH 1  1
+B$        -122
+HH 0  1
+HH 0  1
+f84216f2830605a8
+WRONG
+B$        -122
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000058
+WRONG
+B$         124
+HH 1  1
+HH 1  1
+B$        -123
+HH 0  1
+HH 0  1
+d0540000f8422c28
+WRONG
+B$        -123
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000057
+WRONG
+B$         125
+HH 1  1
+HH 1  1
+B$        -124
+HH 0  1
+HH 0  1
+83060590f84216f2
+WRONG
+B$        -124
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000056
+WRONG
+B$         126
+HH 1  1
+HH 1  1
+B$        -125
+HH 0  1
+HH 0  1
+8306002070c0009e
+WRONG
+B$        -125
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000055
+WRONG
+B$         127
+HH 1  1
+HH 1  1
+B$        -126
+HH 0  1
+HH 0  1
+900000f290000568
+WRONG
+B$        -126
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000054
+WRONG
+B$        -128
+HH 1  1
+HH 1  1
+B$        -127
+HH 0  1
+HH 0  1
+c8c6003c900000c2
+WRONG
+B$        -127
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000053
+WRONG
+B$        -127
+HH 1  1
+HH 1  1
+B$        -128
+HH 0  1
+HH 0  1
+70c00008f8c85428
+WRONG
+B$        -128
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000052
+WRONG
+B$        -126
+HH 1  1
+HH 1  1
+B$         127
+HH 0  1
+HH 0  1
+7000000488000004
+WRONG
+B$         127
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000051
+WRONG
+B$        -125
+HH 1  1
+HH 1  1
+B$         126
+HH 0  1
+HH 0  1
+7101ffec71400016
+WRONG
+B$         126
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000050
+WRONG
+B$        -124
+HH 1  1
+HH 1  1
+B$         125
+HH 0  1
+HH 0  1
+f8ca442870000004
+WRONG
+B$         125
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000004f
+WRONG
+B$        -123
+HH 1  1
+HH 1  1
+B$         124
+HH 0  1
+HH 0  1
+8800000490000008
+WRONG
+B$         124
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000004e
+WRONG
+B$        -122
+HH 1  1
+HH 1  1
+B$         123
+HH 0  1
+HH 0  1
+70c0025870000004
+WRONG
+B$         123
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000004d
+WRONG
+B$        -121
+HH 1  1
+HH 1  1
+B$         122
+HH 0  1
+HH 0  1
+880000047181ff38
+WRONG
+B$         122
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000004c
+WRONG
+B$        -120
+HH 1  1
+HH 1  1
+B$         121
+HH 0  1
+HH 0  1
+71c000c8f8ce642a
+WRONG
+B$         121
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000004b
+WRONG
+B$        -119
+HH 1  1
+HH 1  1
+B$         120
+HH 0  1
+HH 0  1
+810404d0830004c8
+WRONG
+B$         120
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000004a
+WRONG
+B$        -118
+HH 1  1
+HH 1  1
+B$         119
+HH 0  1
+HH 0  1
+830204c090000022
+WRONG
+B$         119
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000049
+WRONG
+B$        -117
+HH 1  1
+HH 1  1
+B$         118
+HH 0  1
+HH 0  1
+70c0008e9000002a
+WRONG
+B$         118
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000048
+WRONG
+B$        -116
+HH 1  1
+HH 1  1
+B$         117
+HH 0  1
+HH 0  1
+8304003870000004
+WRONG
+B$         117
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000047
+WRONG
+B$        -115
+HH 1  1
+HH 1  1
+B$         116
+HH 0  1
+HH 0  1
+880000049d000040
+WRONG
+B$         116
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000046
+WRONG
+B$        -114
+HH 1  1
+HH 1  1
+B$         115
+HH 0  1
+HH 0  1
+7000000088000004
+WRONG
+B$         115
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000045
+WRONG
+B$        -113
+HH 1  1
+HH 1  1
+B$         114
+HH 0  1
+HH 0  1
+9d00004070c0003c
+WRONG
+B$         114
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000044
+WRONG
+B$        -112
+HH 1  1
+HH 1  1
+B$         113
+HH 0  1
+HH 0  1
+71400000714bfff6
+WRONG
+B$         113
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000043
+WRONG
+B$        -111
+HH 1  1
+HH 1  1
+B$         112
+HH 0  1
+HH 0  1
+f8c6542a97ffffb2
+WRONG
+B$         112
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000042
+WRONG
+B$        -110
+HH 1  1
+HH 1  1
+B$         111
+HH 0  1
+HH 0  1
+8105fff090000904
+WRONG
+B$         111
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000041
+WRONG
+B$        -109
+HH 1  1
+HH 1  1
+B$         110
+HH 0  1
+HH 0  1
+70c0c2a297ffffaa
+WRONG
+B$         110
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000040
+WRONG
+B$        -108
+HH 1  1
+HH 1  1
+B$         109
+HH 0  1
+HH 0  1
+70c000ea97ffff9a
+WRONG
+B$         109
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000003f
+WRONG
+B$        -107
+HH 1  1
+HH 1  1
+B$         108
+HH 0  1
+HH 0  1
+70c000d297ffff8a
+WRONG
+B$         108
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000003e
+WRONG
+B$        -106
+HH 1  1
+HH 1  1
+B$         107
+HH 0  1
+HH 0  1
+70c000dc97ffff7a
+WRONG
+B$         107
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000003d
+WRONG
+B$        -105
+HH 1  1
+HH 1  1
+B$         106
+HH 0  1
+HH 0  1
+70c000ca97ffff6a
+WRONG
+B$         106
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000003c
+WRONG
+B$        -104
+HH 1  1
+HH 1  1
+B$         105
+HH 0  1
+HH 0  1
+7040090072800000
+WRONG
+B$         105
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000003b
+WRONG
+B$        -103
+HH 1  1
+HH 1  1
+B$         104
+HH 0  1
+HH 0  1
+7043fff1d0c20012
+WRONG
+B$         104
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000003a
+WRONG
+B$        -102
+HH 1  1
+HH 1  1
+B$         103
+HH 0  1
+HH 0  1
+f8c6a42a97ffff22
+WRONG
+B$         103
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000039
+WRONG
+B$        -101
+HH 1  1
+HH 1  1
+B$         102
+HH 0  1
+HH 0  1
+8304002097ffffe0
+WRONG
+B$         102
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000038
+WRONG
+B$        -100
+HH 1  1
+HH 1  1
+B$         101
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$         101
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000037
+WRONG
+B$         -99
+HH 1  1
+HH 1  1
+B$         100
+HH 0  1
+HH 0  1
+7000000270c1fffe
+WRONG
+B$         100
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000036
+WRONG
+B$         -98
+HH 1  1
+HH 1  1
+B$          99
+HH 0  1
+HH 0  1
+97fffeea7001fffe
+WRONG
+B$          99
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000035
+WRONG
+B$         -97
+HH 1  1
+HH 1  1
+B$          98
+HH 0  1
+HH 0  1
+f80006f270c000c2
+WRONG
+B$          98
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000034
+WRONG
+B$         -96
+HH 1  1
+HH 1  1
+B$          97
+HH 0  1
+HH 0  1
+97fffee283020358
+WRONG
+B$          97
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000033
+WRONG
+B$         -95
+HH 1  1
+HH 1  1
+B$          96
+HH 0  1
+HH 0  1
+8304035070000002
+WRONG
+B$          96
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000032
+WRONG
+B$         -94
+HH 1  1
+HH 1  1
+B$          95
+HH 0  1
+HH 0  1
+f80006f270c000c4
+WRONG
+B$          95
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000031
+WRONG
+B$         -93
+HH 1  1
+HH 1  1
+B$          94
+HH 0  1
+HH 0  1
+97fffeb283000328
+WRONG
+B$          94
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000030
+WRONG
+B$         -92
+HH 1  1
+HH 1  1
+B$          93
+HH 0  1
+HH 0  1
+8304032070000000
+WRONG
+B$          93
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000002f
+WRONG
+B$         -91
+HH 1  1
+HH 1  1
+B$          92
+HH 0  1
+HH 0  1
+f80006f270c000c6
+WRONG
+B$          92
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000002e
+WRONG
+B$         -90
+HH 1  1
+HH 1  1
+B$          91
+HH 0  1
+HH 0  1
+97fffe82830202f8
+WRONG
+B$          91
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000002d
+WRONG
+B$         -89
+HH 1  1
+HH 1  1
+B$          90
+HH 0  1
+HH 0  1
+830002f070c000a0
+WRONG
+B$          90
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000002c
+WRONG
+B$         -88
+HH 1  1
+HH 1  1
+B$          89
+HH 0  1
+HH 0  1
+97fffe6270c000c8
+WRONG
+B$          89
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000002b
+WRONG
+B$         -87
+HH 1  1
+HH 1  1
+B$          88
+HH 0  1
+HH 0  1
+d0c6001297fffe32
+WRONG
+B$          88
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000002a
+WRONG
+B$         -86
+HH 1  1
+HH 1  1
+B$          87
+HH 0  1
+HH 0  1
+70c000c870000cf0
+WRONG
+B$          87
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000029
+WRONG
+B$         -85
+HH 1  1
+HH 1  1
+B$          86
+HH 0  1
+HH 0  1
+d0c0001297fffe12
+WRONG
+B$          86
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000028
+WRONG
+B$         -84
+HH 1  1
+HH 1  1
+B$          85
+HH 0  1
+HH 0  1
+70c0009a97fffe1a
+WRONG
+B$          85
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000027
+WRONG
+B$         -83
+HH 1  1
+HH 1  1
+B$          84
+HH 0  1
+HH 0  1
+70000d01d0c00000
+WRONG
+B$          84
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000026
+WRONG
+B$         -82
+HH 1  1
+HH 1  1
+B$          83
+HH 0  1
+HH 0  1
+97fffdeaf80606f0
+WRONG
+B$          83
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000025
+WRONG
+B$         -81
+HH 1  1
+HH 1  1
+B$          82
+HH 0  1
+HH 0  1
+97fffdda70400d00
+WRONG
+B$          82
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000024
+WRONG
+B$         -80
+HH 1  1
+HH 1  1
+B$          81
+HH 0  1
+HH 0  1
+d0c2000097fffdc2
+WRONG
+B$          81
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000023
+WRONG
+B$         -79
+HH 1  1
+HH 1  1
+B$          80
+HH 0  1
+HH 0  1
+9000000884800248
+WRONG
+B$          80
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000022
+WRONG
+B$         -78
+HH 1  1
+HH 1  1
+B$          79
+HH 0  1
+HH 0  1
+8400003070c00086
+WRONG
+B$          79
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000021
+WRONG
+B$         -77
+HH 1  1
+HH 1  1
+B$          78
+HH 0  1
+HH 0  1
+97fffdb270c000cc
+WRONG
+B$          78
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000020
+WRONG
+B$         -76
+HH 1  1
+HH 1  1
+B$          77
+HH 0  1
+HH 0  1
+97fffda290000218
+WRONG
+B$          77
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000001f
+WRONG
+B$         -75
+HH 1  1
+HH 1  1
+B$          76
+HH 0  1
+HH 0  1
+8306001090000208
+WRONG
+B$          76
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000001e
+WRONG
+B$         -74
+HH 1  1
+HH 1  1
+B$          75
+HH 0  1
+HH 0  1
+70c0009897fffd7a
+WRONG
+B$          75
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000001d
+WRONG
+B$         -73
+HH 1  1
+HH 1  1
+B$          74
+HH 0  1
+HH 0  1
+70c0006477c1fffe
+WRONG
+B$          74
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000001c
+WRONG
+B$         -72
+HH 1  1
+HH 1  1
+B$          73
+HH 0  1
+HH 0  1
+70000004f8c7f42a
+WRONG
+B$          73
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000001b
+WRONG
+B$         -71
+HH 1  1
+HH 1  1
+B$          72
+HH 0  1
+HH 0  1
+880000049b040040
+WRONG
+B$          72
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000001a
+WRONG
+B$         -70
+HH 1  1
+HH 1  1
+B$          71
+HH 0  1
+HH 0  1
+8401ffea00000000
+WRONG
+B$          71
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000019
+WRONG
+B$         -69
+HH 1  1
+HH 1  1
+B$          70
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          70
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000018
+WRONG
+B$         -68
+HH 1  1
+HH 1  1
+B$          69
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          69
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000017
+WRONG
+B$         -67
+HH 1  1
+HH 1  1
+B$          68
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          68
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000016
+WRONG
+B$         -66
+HH 1  1
+HH 1  1
+B$          67
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          67
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000015
+WRONG
+B$         -65
+HH 1  1
+HH 1  1
+B$          66
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          66
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000014
+WRONG
+B$         -64
+HH 1  1
+HH 1  1
+B$          65
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          65
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000013
+WRONG
+B$         -63
+HH 1  1
+HH 1  1
+B$          64
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          64
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000012
+WRONG
+B$         -62
+HH 1  1
+HH 1  1
+B$          63
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          63
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000011
+WRONG
+B$         -61
+HH 1  1
+HH 1  1
+B$          62
+HH 0  1
+HH 0  1
+0000000000000000
+WRONG
+B$          62
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000010
+WRONG
+B$         -60
+HH 1  1
+HH 1  1
+B$          61
+HH 0  1
+HH 0  1
+0000000070c000fe
+WRONG
+B$          61
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000000f
+WRONG
+B$         -59
+HH 1  1
+HH 1  1
+B$          60
+HH 0  1
+HH 0  1
+7101fff697fffc8a
+WRONG
+B$          60
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000000e
+WRONG
+B$         -58
+HH 1  1
+HH 1  1
+B$          59
+HH 0  1
+HH 0  1
+f8c6442a81020010
+WRONG
+B$          59
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000000d
+WRONG
+B$         -57
+HH 1  1
+HH 1  1
+B$          58
+HH 0  1
+HH 0  1
+97ffffe870c000a6
+WRONG
+B$          58
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000000c
+WRONG
+B$         -56
+HH 1  1
+HH 1  1
+B$          57
+HH 0  1
+HH 0  1
+97fffc6270c000ea
+WRONG
+B$          57
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000000b
+WRONG
+B$         -55
+HH 1  1
+HH 1  1
+B$          56
+HH 0  1
+HH 0  1
+97fffc5270c000c6
+WRONG
+B$          56
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000000a
+WRONG
+B$         -54
+HH 1  1
+HH 1  1
+B$          55
+HH 0  1
+HH 0  1
+97fffc4270c000c6
+WRONG
+B$          55
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000009
+WRONG
+B$         -53
+HH 1  1
+HH 1  1
+B$          54
+HH 0  1
+HH 0  1
+97fffc3270c000ca
+WRONG
+B$          54
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000008
+WRONG
+B$         -52
+HH 1  1
+HH 1  1
+B$          53
+HH 0  1
+HH 0  1
+97fffc2270c000e6
+WRONG
+B$          53
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000007
+WRONG
+B$         -51
+HH 1  1
+HH 1  1
+B$          52
+HH 0  1
+HH 0  1
+97fffc1297fffc0a
+WRONG
+B$          52
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000006
+WRONG
+B$         -50
+HH 1  1
+HH 1  1
+B$          51
+HH 0  1
+HH 0  1
+70c0004297fffbfa
+WRONG
+B$          51
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000005
+WRONG
+B$         -49
+HH 1  1
+HH 1  1
+B$          50
+HH 0  1
+HH 0  1
+90000070c0000000
+WRONG
+B$          50
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000004
+WRONG
+B$         -48
+HH 1  1
+HH 1  1
+B$          49
+HH 0  1
+HH 0  1
+fffffffffffffffe
+WRONG
+B$          49
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000003
+WRONG
+B$         -47
+HH 1  1
+HH 1  1
+B$          48
+HH 0  1
+HH 0  1
+00000000fffffffe
+WRONG
+B$          48
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000002
+WRONG
+B$         -46
+HH 1  1
+HH 1  1
+B$          47
+HH 0  1
+HH 0  1
+0000000000000018
+WRONG
+B$          47
+HH 0  1
+HH 0  1
+B$           3
+HH 1  1
+HH 1  1
+0000000000000001
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+O
+B$           3
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+B$           3
+HH 1  1
+HH 1  1
+000000000000004f
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000123
+B$           4
+HH 1 -1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+B$           4
+HH 1  1
+HH 1  1
+0000000000000123
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+00000000000002ec
+B$           5
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+B$           5
+HH 1  1
+HH 1  1
+00000000000002ec
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000abc
+B$           4
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+000000000000002a
+B$           5
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+70c000c270000004
+B$           6
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+70c000c270000084
+B$           1
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+70c000c270000084
+70c000c270000104
+B$           1
+HH 0  1
+HH 0  1
+WRONG
+B$          47
+HH 0  1
+HH 0  1
+WRONG
+B$          -2
+HH 0  1
+HH 0  1
+B$          46
+HH 0  1
+HH 0  1
+WRONG
+B$          -2
+HH 0  1
+HH 0  1
+WRONG
+B$           1
+HH 0  1
+HH 0  1
+B$          -3
+HH 0  1
+HH 0  1
+WRONG
+B$           1
+HH 0  1
+HH 0  1
+WRONG
+B$          -1
+HH 0  1
+HH 0  1
+B$          -1
+HH 0  1
+HH 0  1
+WRONG
+B$          45
+HH 0  1
+HH 0  1
+WRONG
+B$          -2
+HH 0  1
+HH 0  1
+WRONG
+B$          44
+HH 0  1
+HH 0  1
+B$           7
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+70c000c270000104
+00000000000000d0
+B$           8
+HH 1  1
+HH 1  1
+0000000000000001
+WRONG
+000000000000012c
+B$           0
+HH 0 -1
+HH 0  1
+WRONG
+B$          -3
+HH 0  1
+HH 0  1
+WRONG
+B$           0
+HH 0 -1
+HH 0  1
+WRONG
+B$           9
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000000
+B$           6
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+G
+B$          -4
+HH 0  1
+HH 0  1
+B$         -45
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000019
+B$          44
+HH 0  1
+HH 0  1
+B$         -44
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000014
+B$          44
+HH 0  1
+HH 0  1
+B$         -43
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+000000000000000f
+B$          44
+HH 0  1
+HH 0  1
+B$         -42
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+000000000000000a
+B$          44
+HH 0  1
+HH 0  1
+B$         -41
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000005
+B$          44
+HH 0  1
+HH 0  1
+B$         -40
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000000
+B$          44
+HH 0  1
+HH 0  1
+WRONG
+B$           6
+HH 1  1
+HH 1  1
+WRONG
+B$           2
+HH 1 -1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+Q
+B$          10
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+u
+B$           7
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+i
+B$         -39
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+n
+B$           7
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+e
+B$           8
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+386061514bffffd5
+B$          -4
+HH 0  1
+HH 0  1
+WRONG
+B$         -38
+HH 1  1
+HH 1  1
+WRONG
+B$           9
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+386000754bffffcd
+B$          -5
+HH 0  1
+HH 0  1
+WRONG
+B$         -37
+HH 1  1
+HH 1  1
+WRONG
+B$          10
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+386000694bffffc5
+B$          -6
+HH 0  1
+HH 0  1
+WRONG
+B$         -36
+HH 1  1
+HH 1  1
+WRONG
+B$          11
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+3860006e4bffffbd
+B$          -7
+HH 0  1
+HH 0  1
+WRONG
+B$         -35
+HH 1  1
+HH 1  1
+WRONG
+B$          12
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+386000654bffffb5
+B$          -8
+HH 0  1
+HH 0  1
+WRONG
+B$         -34
+HH 1  1
+HH 1  1
+WRONG
+B$          13
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+3820048039400000
+B$          -9
+HH 0  1
+HH 0  1
+WRONG
+B$         -33
+HH 1  1
+HH 1  1
+WRONG
+B$          14
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+3821fff8e8610009
+B$         -10
+HH 0  1
+HH 0  1
+WRONG
+B$         -32
+HH 1  1
+HH 1  1
+WRONG
+B$          15
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+7c6352154bffff91
+B$         -11
+HH 0  1
+HH 0  1
+WRONG
+B$         -31
+HH 1  1
+HH 1  1
+WRONG
+B$          16
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+418200104bfffff0
+B$         -12
+HH 0  1
+HH 0  1
+WRONG
+B$         -30
+HH 1  1
+HH 1  1
+WRONG
+B$          17
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000000
+B$         -13
+HH 0  1
+HH 0  1
+B$         -29
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+ffffffffffffffff
+B$           3
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+a
+B$          -1
+HH 0  1
+HH 0  1
+WRONG
+B$          43
+HH 0  1
+HH 0  1
+WRONG
+B$         -28
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+b
+B$          42
+HH 0  1
+HH 0  1
+WRONG
+B$          -4
+HH 0  1
+HH 0  1
+WRONG
+B$          11
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+c
+B$          -5
+HH 0  1
+HH 0  1
+WRONG
+B$          -1
+HH 0  1
+HH 0  1
+WRONG
+B$         -27
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+P
+B$          18
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000064
+B$           8
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000064
+B$           4
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+M
+B$           9
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+3860006138000002
+B$           5
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+0000000000000002
+B$          10
+HH 1  1
+HH 1  1
+B$           1
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+7fffffffffffffff
+B$          19
+HH 1  1
+HH 1  1
+WRONG
+B$         -13
+HH 0  1
+HH 0  1
+WRONG
+B$          -2
+HH 0  1
+HH 0  1
+B$          41
+HH 0  1
+HH 0  1
+B$           6
+HH 1  1
+HH 1  1
+WRONG
+B$           1
+HH 1  1
+HH 1  1
+L
+B$           1
+HH 1  1
+HH 1  1
+0000000000000031
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$           0
+HH 1  1
+HH 0 -1
+0000000000000030
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -1
+HH 0  1
+HH 0  1
+000000000000002f
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -2
+HH 0  1
+HH 0  1
+000000000000002e
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -3
+HH 0  1
+HH 0  1
+000000000000002d
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -4
+HH 0 -1
+HH 0  1
+000000000000002c
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -5
+HH 0  1
+HH 0  1
+000000000000002b
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -6
+HH 0  1
+HH 0  1
+000000000000002a
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -7
+HH 0  1
+HH 0  1
+0000000000000029
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -8
+HH 0  1
+HH 0  1
+0000000000000028
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$          -9
+HH 0  1
+HH 0  1
+0000000000000027
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -10
+HH 0  1
+HH 0  1
+0000000000000026
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -11
+HH 0  1
+HH 0  1
+0000000000000025
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -12
+HH 0  1
+HH 0  1
+0000000000000024
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -13
+HH 0  1
+HH 0  1
+0000000000000023
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -14
+HH 0  1
+HH 0  1
+0000000000000022
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -15
+HH 0  1
+HH 0  1
+0000000000000021
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -16
+HH 0  1
+HH 0  1
+0000000000000020
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -17
+HH 0  1
+HH 0  1
+000000000000001f
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -18
+HH 0  1
+HH 0  1
+000000000000001e
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -19
+HH 0  1
+HH 0  1
+000000000000001d
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -20
+HH 0  1
+HH 0  1
+000000000000001c
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -21
+HH 0  1
+HH 0  1
+000000000000001b
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -22
+HH 0  1
+HH 0  1
+000000000000001a
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -23
+HH 0  1
+HH 0  1
+0000000000000019
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -24
+HH 0  1
+HH 0  1
+0000000000000018
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -25
+HH 0  1
+HH 0  1
+0000000000000017
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -26
+HH 0  1
+HH 0  1
+0000000000000016
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -27
+HH 0  1
+HH 0  1
+0000000000000015
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -28
+HH 0  1
+HH 0  1
+0000000000000014
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -29
+HH 0  1
+HH 0  1
+0000000000000013
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -30
+HH 0  1
+HH 0  1
+0000000000000012
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -31
+HH 0  1
+HH 0  1
+0000000000000011
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -32
+HH 0  1
+HH 0  1
+0000000000000010
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -33
+HH 0  1
+HH 0  1
+000000000000000f
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -34
+HH 0  1
+HH 0  1
+000000000000000e
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -35
+HH 0  1
+HH 0  1
+000000000000000d
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -36
+HH 0  1
+HH 0  1
+000000000000000c
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -37
+HH 0  1
+HH 0  1
+000000000000000b
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -38
+HH 0  1
+HH 0  1
+000000000000000a
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -39
+HH 0  1
+HH 0  1
+0000000000000009
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -40
+HH 0  1
+HH 0  1
+0000000000000008
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -41
+HH 0  1
+HH 0  1
+0000000000000007
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -42
+HH 0  1
+HH 0  1
+0000000000000006
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -43
+HH 0  1
+HH 0  1
+0000000000000005
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -44
+HH 0  1
+HH 0  1
+0000000000000004
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -45
+HH 0  1
+HH 0  1
+0000000000000003
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -46
+HH 0  1
+HH 0  1
+0000000000000002
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -47
+HH 0  1
+HH 0  1
+0000000000000001
+WRONG
+B$          41
+HH 0  1
+HH 0  1
+B$         -48
+HH 0  1
+HH 0  1
+0000000000000000
+B$           7
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+
+B$          41
+HH 0  1
+HH 0  1
+B$           8
+HH 1  1
+HH 1  1
+WRONG
+B$          11
+HH 1  1
+HH 1  1
+WRONG
+B$           8
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+z
+B$          40
+HH 0  1
+HH 0  1
+B$           9
+HH 1  1
+HH 1  1
+WRONG
+B$          12
+HH 1  1
+HH 1  1
+WRONG
+B$           9
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+u
+B$          39
+HH 0  1
+HH 0  1
+B$          10
+HH 1  1
+HH 1  1
+WRONG
+B$          13
+HH 1  1
+HH 1  1
+WRONG
+B$          10
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+p
+B$          38
+HH 0  1
+HH 0  1
+B$          11
+HH 1  1
+HH 1  1
+WRONG
+B$          14
+HH 1  1
+HH 1  1
+WRONG
+B$          11
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+k
+B$          37
+HH 0  1
+HH 0  1
+B$          12
+HH 1  1
+HH 1  1
+WRONG
+B$          15
+HH 1  1
+HH 1  1
+WRONG
+B$          12
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+f
+B$          36
+HH 0  1
+HH 0  1
+B$          13
+HH 1  1
+HH 1  1
+WRONG
+B$          16
+HH 1  1
+HH 1  1
+WRONG
+B$          13
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+a
+B$          35
+HH 0  1
+HH 0  1
+B$          14
+HH 1  1
+HH 1  1
+WRONG
+B$          17
+HH 1  1
+HH 1  1
+WRONG
+B$          14
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+\
+B$          34
+HH 0  1
+HH 0  1
+B$          15
+HH 1  1
+HH 1  1
+WRONG
+B$          18
+HH 1  1
+HH 1  1
+WRONG
+B$          15
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+W
+B$          33
+HH 0  1
+HH 0  1
+B$          16
+HH 1  1
+HH 1  1
+WRONG
+B$          19
+HH 1  1
+HH 1  1
+WRONG
+B$          16
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+R
+B$          32
+HH 0  1
+HH 0  1
+B$          17
+HH 1  1
+HH 1  1
+WRONG
+B$          20
+HH 1  1
+HH 1  1
+WRONG
+B$          17
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+M
+B$          31
+HH 0  1
+HH 0  1
+B$          18
+HH 1  1
+HH 1  1
+WRONG
+B$          21
+HH 1  1
+HH 1  1
+WRONG
+B$          18
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+H
+B$          30
+HH 0  1
+HH 0  1
+B$          19
+HH 1  1
+HH 1  1
+WRONG
+B$          22
+HH 1  1
+HH 1  1
+WRONG
+B$          19
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+C
+B$          29
+HH 0  1
+HH 0  1
+B$          20
+HH 1  1
+HH 1  1
+WRONG
+B$          23
+HH 1  1
+HH 1  1
+WRONG
+B$          20
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+>
+B$          28
+HH 0  1
+HH 0  1
+B$          21
+HH 1  1
+HH 1  1
+WRONG
+B$          24
+HH 1  1
+HH 1  1
+WRONG
+B$          21
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+9
+B$          27
+HH 0  1
+HH 0  1
+B$          22
+HH 1  1
+HH 1  1
+WRONG
+B$          25
+HH 1  1
+HH 1  1
+WRONG
+B$          22
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+4
+B$          26
+HH 0  1
+HH 0  1
+B$          23
+HH 1  1
+HH 1  1
+WRONG
+B$          26
+HH 1  1
+HH 1  1
+WRONG
+B$          23
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+/
+B$          25
+HH 0  1
+HH 0  1
+B$          24
+HH 1  1
+HH 1  1
+WRONG
+B$          27
+HH 1  1
+HH 1  1
+WRONG
+B$          24
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+*
+B$          24
+HH 0  1
+HH 0  1
+B$          25
+HH 1  1
+HH 1  1
+WRONG
+B$          28
+HH 1  1
+HH 1  1
+WRONG
+B$          25
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+%
+B$          23
+HH 0  1
+HH 0  1
+B$          26
+HH 1  1
+HH 1  1
+WRONG
+B$          29
+HH 1  1
+HH 1  1
+WRONG
+B$          26
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+ 
+B$          22
+HH 0  1
+HH 0  1
+B$          27
+HH 1  1
+HH 1  1
+WRONG
+B$          30
+HH 1  1
+HH 1  1
+WRONG
+B$          27
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+
+B$          21
+HH 0  1
+HH 0  1
+B$          28
+HH 1  1
+HH 1  1
+WRONG
+B$          31
+HH 1  1
+HH 1  1
+WRONG
+B$          28
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+
+B$          20
+HH 0  1
+HH 0  1
+B$          29
+HH 1  1
+HH 1  1
+WRONG
+B$          32
+HH 1  1
+HH 1  1
+WRONG
+B$          29
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+
+B$          19
+HH 0  1
+HH 0  1
+B$          30
+HH 1  1
+HH 1  1
+WRONG
+B$          33
+HH 1  1
+HH 1  1
+WRONG
+B$          30
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+
+B$          18
+HH 0  1
+HH 0  1
+B$          31
+HH 1  1
+HH 1  1
+WRONG
+B$          34
+HH 1  1
+HH 1  1
+WRONG
+B$          31
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+
+B$          17
+HH 0  1
+HH 0  1
+B$          32
+HH 1  1
+HH 1  1
+WRONG
+B$          35
+HH 1  1
+HH 1  1
+WRONG
+B$          32
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+
+B$          16
+HH 0  1
+HH 0  1
+B$          33
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+S
+B$          12
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+u
+B$          20
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+c
+B$         -26
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+c
+B$          36
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+e
+B$          34
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+s
+B$         -25
+HH 1  1
+HH 1  1
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+B$          37
+HH 1  1
+HH 1  1
+s
+WRONG
+B$         -48
+HH 0  1
+HH 0  1
+!
+B$          21
+HH 1  1
+HH 1  1
+WRONG

@@ -1,0 +1,417 @@
+O ADDI                  360
+PC                    0
+O LD                 360
+PC                    4
+O ADDI                    1
+PC                    8
+O ADD
+PC                   12
+O BC
+PC                   16
+PC                    0
+O ORX
+PC                   20
+O BC
+PC                   24
+PC                    0
+O ADDI                  360
+PC                   28
+O LD                 360
+PC                   32
+O ADDI                    1
+PC                   36
+O ADD
+PC                   40
+O BC
+PC                   44
+O ORX
+PC                   48
+O BC
+PC                   52
+PC                    0
+PC                    0
+PC                    0
+O ADDI                    2
+PC                   68
+O ADDI                   65
+PC                   72
+/u/gheith/public/ppc64-linux/bin/objcopy -O binary --only-section=.text t3.o /dev/stdout | xxd -p - | tr -d '\n' | sed -e "s/.\{16\}/&\n/g" | perl -lpe '$_ .= "0" x (16 - length $_)' | tee t3.binPC                   76
+PC                   80
+PC                   84
+O ADDI                   66
+PC                   88
+O SC
+0000000000000042
+PC                   92
+O ADDI                    8
+PC                   96
+PC                  100
+PC                  104
+O BX                  340 1,                  108
+PC                  108
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000008
+PC                  344
+O BCLR
+PC                  348
+O BC
+PC                  112
+PC                  116
+PC                  120
+PC                  124
+PC                  128
+O ADDI                   73
+PC                  132
+O BC
+PC                  136
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000049
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+O ADDI                    0
+PC                  140
+PC                  144
+O BC
+PC                  148
+O ADDI                    1
+PC                  152
+PC                  156
+O BC
+PC                  160
+PC                    0
+O ADDI                    1
+PC                  164
+O MTCRF
+PC                  168
+O BC
+PC                  172
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+000000000000004b
+PC                  344
+O BCLR
+PC                  348
+O ADDI                    1
+PC                  176
+PC                  180
+O BC
+PC                  184
+PC                    0
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+000000000000004c
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+O ADDI                    1
+PC                  188
+PC                  192
+O BC
+PC                  196
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+000000000000004d
+PC                  344
+O BCLR
+PC                  348
+O ADDI 18446744073709551615
+PC                  200
+O ADDI                  384
+PC                  204
+PC                  208
+O LD                 384
+PC                  212
+O BX                  340 1,                  216
+PC                  216
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000000
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+PC                    0
+PC                    0
+O MFSPR
+PC                  220
+O ADDI                    0
+PC                  224
+O MTSPR
+PC                  228
+O MTSPR
+PC                  232
+O MTSPR
+PC                  236
+O ADDI 18446744073709551615
+PC                  240
+PC                  244
+O BX                  340 1,                  248
+PC                  248
+PC                    0
+PC                    0
+PC                    0
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+ffffffffffffffff
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+PC                  252
+O BX                  340 1,                  256
+PC                  256
+PC                    0
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+ffffffffffffffff
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+PC                  260
+O BX                  340 1,                  264
+PC                  264
+PC                    0
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+ffffffffffffffff
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+O ADDI 18446744073709551614
+PC                  268
+PC                  272
+PC                  276
+PC                  280
+O MFSPR
+PC                  284
+O BX                  340 1,                  288
+PC                  288
+PC                    0
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000000
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+O MFSPR
+PC                  292
+O BX                  340 1,                  296
+PC                  296
+PC                    0
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000124
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+O MFSPR
+PC                  300
+O BX                  340 1,                  304
+PC                  304
+PC                    0
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000000
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+O MTSPR
+PC                  308
+O ADDI                    0
+PC                  312
+O MTSPR
+PC                  316
+O ADDI                  119
+PC                  320
+O BX                  340 1,                  324
+PC                  324
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000077
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+PC                    0
+O BX                  416 0,                  328
+PC                  328
+PC                    0
+PC                    0
+PC                    0
+O ADDI                  368
+PC                  416
+O ADDI                  376
+PC                  420
+O ADDI                    0
+PC                  424
+O LD                 368
+PC                  428
+O LD                 376
+PC                  432
+O ADD
+PC                  436
+O BX                  340 1,                  440
+PC                  440
+O ADDI                    2
+PC                  340
+O SC
+0000000000000a54
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+O BX                  448 0,                  444
+PC                  444
+PC                    0
+PC                    0
+O BX                  468 0,                  448
+PC                  448
+PC                    0
+PC                    0
+PC                    0
+PC                    0
+O BC
+PC                  468
+PC                    0
+O BC
+PC                  452
+PC                    0
+PC                    0
+O BX                  456 0,                  472
+PC                  472
+PC                    0
+PC                    0
+PC                    0
+O BX                  476 0,                  456
+PC                  456
+PC                    0
+PC                    0
+PC                    0
+PC                    0
+O BC
+PC                  476
+PC                    0
+PC                    0
+PC                    0
+O BC
+PC                  460
+PC                    0
+PC                    0
+O BX                  464 0,                  480
+PC                  480
+PC                    0
+PC                    0
+PC                    0
+O BX                  484 0,                  464
+PC                  464
+PC                    0
+PC                    0
+PC                    0
+PC                    0
+O ADD
+PC                  484
+O ADD
+PC                  488
+O ADD
+PC                  492
+O ADD
+PC                  496
+O ADD
+PC                  500
+O ORX
+PC                  504
+O BX                  340 1,                  508
+PC                  508
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000a55
+PC                  344
+O BCLR
+PC                  348
+O ADDI                  528
+PC                  512
+O ADDI                  392
+PC                  516
+O LD                 392
+PC                  520
+O STD
+PC                  524
+O BX                  340 1,                  528
+PC                  528
+PC                    0
+O ADDI                    2
+PC                  340
+O SC
+0000000000000a55
+PC                  344
+O BCLR
+PC                  348
+PC                    0
+PC                  532
+O ADDI                  360
+PC                  536
+O LD                 360
+PC                  540
+O ADDI                    1
+PC                  544
+O ADD
+PC                  548
+O BC
+PC                  552
+O ADDI                    0
+PC                  556
+O MTSPR
+PC                  560
+O BC
+PC                  564
+O ORX
+PC                  568
+O BC
+PC                  572
+O BX                  352 0,                  576
+PC                  576
+PC                    0
+PC                    0
+PC                    0
+O ADDI                    1
+PC                  352
+O SC
+PC                  356

@@ -1,0 +1,53 @@
+.global main
+main:
+    b 1f
+    li 0, 2 # 8
+    li 3, 'a'
+1:
+    ld 3, 48(0) # 16
+    li 4, 'b'
+    std 3, 24(0) # 24
+    li 3, 'c'
+    li 3, 'd' # 32
+    li 3, 'm'
+    li 3, 's' # 40
+
+    ld 3, 32(0)
+    b 1f # 48
+    ld 3, 0(0)
+    std 3, 32(0)
+1:
+    li 0, 2
+    sc
+
+    li 2, blueExorcist-main
+    ld 3, 0(2)
+    mr 2, 3
+    li 5, 1
+
+    addo. 3, 2, 5
+
+    addo. 3, 5, 5
+
+    mfspr 3, 1
+
+    ld 3, 0(0)
+
+    mtspr 3, 1
+    li 3, 'b'
+    mfspr 3, 1
+
+    sc
+
+    li 0, 1
+    sc
+
+    .global entry
+entry :
+    .quad main
+    .quad data
+    .quad 0
+    .align 3
+blueExorcist:
+        .quad 0x7fffffffffffffff
+

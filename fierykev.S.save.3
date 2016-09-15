@@ -1,0 +1,31 @@
+.global main
+main:
+    b 1f
+    li 0, 0 # 8
+    li 3, 'a'
+1:
+    ld 3, 24(0) # 16
+    li 4, 'b'
+    std 3, 56(0) # 24
+    li 3, 'c'
+    li 3, 'd' # 32
+    li 3, 'a'
+    li 3, 'b' # 40
+    li 3, 'a'
+    li 3, 'b' # 48
+    li 3, 'a'
+    li 3, 'b' # 56
+    li 3, 'a'
+    li 3, 'b
+' # 64
+    sc
+
+    li 0, 1
+    sc
+
+    .global entry
+entry :
+    .quad main
+    .quad data
+    .quad 0
+    .align 3

@@ -1,0 +1,10054 @@
+O BX                   56
+O BX                    4
+O ADDI                   65
+O BCLR
+O BC
+O BC
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+B
+O BCLR
+O BC
+O ADDI                  456
+O LD                 456
+O ORX
+O ADDI                    1
+O ADDI                    2
+O BX                   36
+O ADDI                    2
+O SC
+7fffffffffffffff
+O BCLR
+O ADDI                    2
+O ADD
+O ADD
+O BC
+O ADD
+O ORX
+O BC
+O ADD
+O BC
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+C
+O BCLR
+O BC
+O BC
+O BC
+O ADD
+O BC
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+D
+O BCLR
+O BC
+O BC
+O BC
+O ADDI 18446744073709551615
+O ADD
+O BC
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+E
+O BCLR
+O BC
+O BC
+O BC
+O ADDI                    8
+O LDU
+O BX                   36
+O ADDI                    2
+O SC
+4e8000203a310001
+O BCLR
+O ADDI                   53
+O BX                   24
+O ADDI                    0
+O SC
+A
+O BCLR
+O ADDI                    9
+O BX                  216
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+9
+O BCLR
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+8
+O BCLR
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+7
+O BCLR
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+6
+O BCLR
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+5
+O BCLR
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+4
+O BCLR
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+3
+O BCLR
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+2
+O BCLR
+O ADDI 18446744073709551615
+O ADDI                   49
+O ADD
+O LDU
+O LDU
+O ADDI                    0
+O SC
+1
+O BCLR
+O ADDI                   64
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+@
+O BCLR
+O BX                   24
+O ADDI                    0
+O SC
+@
+O BCLR
+O ADDI                   38
+O BX                   24
+O ADDI                    0
+O SC
+&
+O BCLR
+O BX                  280
+O BC
+O BX                   12
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+F
+O BCLR
+O ADDI                   16
+O BX                  308
+O LD                 344
+O ADDI                   98
+O STD
+O LD                 296
+O STD
+O BX                  340
+O BX                  352
+O BX                   36
+O ADDI                    2
+O SC
+4800000c38000002
+O BCLR
+O LD                 464
+O MTCRF
+O BC
+O BC
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+G
+O BCLR
+O BC
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+H
+O BCLR
+O BC
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+I
+O BCLR
+O ADDI                   78
+O BX                   24
+O ADDI                    0
+O SC
+N
+O BCLR
+O ADDI                    0
+O ADDI                  392
+O MTSPR
+O BX                   12
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+J
+O BCLR
+O BX                   12
+O ADDI                    1
+O ORX
+O BX                   24
+O ADDI                    0
+O SC
+K
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+O ADDI                    8
+O BCLR
+ran for 10000 cycles
